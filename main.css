@@ -391,6 +391,14 @@ section:nth-child(2n + 1) {
     background-color: #80808078;
     color: white;
 }
+.portfolio-image-container:hover .portfolio-details a:visited{
+    background-color: #80808078;
+    color: white;
+}
+.portfolio-image-container:hover .portfolio-details a:active {
+    background-color: #80808078;
+    color: white;
+}
 
 
 
